@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #fafafa;
+    padding: 1.5ch;
+
+}
+
+.question {
+    max-width: 720px;
+}
+
+img {
+    border-radius: 5px;
+}
